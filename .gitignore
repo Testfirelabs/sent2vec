@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+fasttext
+src/sent2vec.cpp
